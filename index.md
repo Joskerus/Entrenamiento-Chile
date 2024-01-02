@@ -2,7 +2,7 @@
 site: sandpaper::sandpaper_site
 ---
 
-## Bienvenidos
+## Bienvenidas y bienvenidos
 
 [workbench]: https://carpentries.github.io/sandpaper-docs
 
