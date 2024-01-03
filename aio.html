@@ -585,7 +585,7 @@ función <code>binom.confint</code>. Y obtenga este resultado:</p>
   Pista
   </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <p>Recuerde diligenciar los espacios donde dice <code>COMPLETE</code>. Y
 obtenga este resultado</p>
@@ -841,7 +841,7 @@ $info: list containing the following items:
   Solución
   </h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
 <div class="accordion-body">
 <p><code>$model</code>: Indica que se ha realizado una regresión
 logarítmica de la incidencia en función del tiempo. Esto implica que la
@@ -1806,6 +1806,28 @@ de las siguientes intervenciones:</p>
 describa cómo parametrizará el modelo. ¿Todas estas intervenciones son
 viables en la actualidad?</p></li>
 </ol>
+<div id="puntos-clave" class="callout keypoints">
+<div class="callout-square">
+<i class="callout-icon" data-feather="key"></i>
+</div>
+<div id="puntos-clave" class="callout-inner">
+<h3 class="callout-title">Puntos clave<a class="anchor" aria-label="anchor" href="#puntos-clave"></a>
+</h3>
+<div class="callout-content">
+<p>Revise si al final de esta lección adquirió estas competencias:</p>
+<ul>
+<li>Aplicar conceptos como parámetros, <span class="math inline">\(R_0\)</span> e inmunidad de rebaño, aprendidos en
+la sesión A del taller</li>
+<li>Traducir fórmulas matemáticas de las interacciones entre los
+parámetros del modelo a código de R</li>
+<li>Realizar un modelo simple en R para una enfermedad transmitida por
+vector</li>
+<li>Discutir cambios en las proyecciones del modelo cuando se instauran
+diferentes estrategias de control de la infección</li>
+</ul>
+</div>
+</div>
+</div>
 </div>
 </section><section id="sobre-este-documento"><h2 class="section-heading">Sobre este documento<a class="anchor" aria-label="anchor" href="#sobre-este-documento"></a>
 </h2>
@@ -1829,34 +1851,46 @@ archivo fuente del documento original puede ser encontrado <a href="https://raw.
 <p><strong>Licencia</strong>: <a href="https://creativecommons.org/licenses/by/3.0/" class="external-link">CC-BY</a>
 <strong>Copyright</strong>: Zulma Cucunuba &amp; Pierre Nouvellet,
 2017</p>
-<!-- ## Referencias -->
-<div id="puntos-clave" class="callout keypoints">
-<div class="callout-square">
-<i class="callout-icon" data-feather="key"></i>
 </div>
-<div id="puntos-clave" class="callout-inner">
-<h3 class="callout-title">Puntos clave<a class="anchor" aria-label="anchor" href="#puntos-clave"></a>
-</h3>
-<div class="callout-content">
-<p>Revise si al final de esta lección adquirió estas competencias:</p>
-<ul>
-<li>Aplicar conceptos como parámetros, <span class="math inline">\(R_0\)</span> e inmunidad de rebaño, aprendidos en
-la sesión A del taller</li>
-<li>Traducir fórmulas matemáticas de las interacciones entre los
-parámetros del modelo a código de R</li>
-<li>Realizar un modelo simple en R para una enfermedad transmitida por
-vector</li>
-<li>Discutir cambios en las proyecciones del modelo cuando se instauran
-diferentes estrategias de control de la infección</li>
-</ul>
-</div>
-</div>
-</div>
+</section><section id="referencias"><h2 class="section-heading">Referencias<a class="anchor" aria-label="anchor" href="#referencias"></a>
+</h2>
+<hr class="half-width">
+<p>de Carvalho, S. S., Rodovalho, C. M., Gaviraghi, A., Mota, M. B. S.,
+Jablonka, W., Rocha-Santos, C., Nunes, R. D., Sá-Guimarães, T. da E.,
+Oliveira, D. S., Melo, A. C. A., Moreira, M. F., Fampa, P., Oliveira, M.
+F., da Silva-Neto, M. A. C., Mesquita, R. D., &amp; Atella, G. C.
+(2021). Aedes aegypti post-emergence transcriptome: Unveiling the
+molecular basis for the hematophagic and gonotrophic capacitation. PLoS
+Neglected Tropical Diseases, 15(1), 1–32. <a href="https://doi.org/10.1371/journal.pntd.0008915" class="external-link uri">https://doi.org/10.1371/journal.pntd.0008915</a></p>
+<p>Chang, C., Ortiz, K., Ansari, A., &amp; Gershwin, M. E. (2016). The
+Zika outbreak of the 21st century. Journal of Autoimmunity, 68, 1–13. <a href="https://doi.org/10.1016/j.jaut.2016.02.006" class="external-link uri">https://doi.org/10.1016/j.jaut.2016.02.006</a></p>
+<p>Cori, A., Ferguson, N. M., Fraser, C., &amp; Cauchemez, S. (2013). A
+new framework and software to estimate time-varying reproduction numbers
+during epidemics. American Journal of Epidemiology, 178(9), 1505–1512.
+<a href="https://doi.org/10.1093/aje/kwt133" class="external-link uri">https://doi.org/10.1093/aje/kwt133</a></p>
+<p>Duffy, M. R., Chen, T.-H., Hancock, W. T., Powers, A. M., Kool, J.
+L., Lanciotti, R. S., Pretrick, M., Marfel, M., Holzbauer, S., Dubray,
+C., Guillaumot, L., Griggs, A., Bel, M., Lambert, A. J., Laven, J.,
+Kosoy, O., Panella, A., Biggerstaff, B. J., Fischer, M., &amp; Hayes, E.
+B. (2009). Zika Virus Outbreak on Yap Island, Federated States of
+Micronesia. New England Journal of Medicine, 360(24), 2536–2543. <a href="https://doi.org/10.1056/nejmoa0805715" class="external-link uri">https://doi.org/10.1056/nejmoa0805715</a></p>
+<p>Ferguson, N. M., Cucunubá, Z. M., Dorigatti, I., Nedjati-Gilani, G.
+L., Donnelly, C. A., Basáñez, M. G., Nouvellet, P., &amp; Lessler, J.
+(2016). Countering the Zika epidemic in Latin America. Science,
+353(6297). <a href="https://doi.org/10.1126/science.aag0219" class="external-link uri">https://doi.org/10.1126/science.aag0219</a></p>
+<p>Heesterbeek, J. A. P. (2002). A brief history of R0 and a recipe for
+its calculation. Acta Biotheoretica, 50(3). <a href="https://doi.org/10.1023/A:1016599411804" class="external-link uri">https://doi.org/10.1023/A:1016599411804</a></p>
+<p>Lee, E. K., Liu, Y., &amp; Pietz, F. H. (2016). A Compartmental Model
+for Zika Virus with Dynamic Human and Vector Populations. AMIA … Annual
+Symposium Proceedings. AMIA Symposium, 2016, 743–752.</p>
+<p>Pettersson, J. H. O., Eldholm, V., Seligman, S. J., Lundkvist, Å.,
+Falconar, A. K., Gaunt, M. W., Musso, D., Nougairède, A., Charrel, R.,
+Gould, E. A., &amp; de Lamballerie, X. (2016). How did zika virus emerge
+in the Pacific Islands and Latin America? MBio, 7(5). <a href="https://doi.org/10.1128/mBio.01239-16" class="external-link uri">https://doi.org/10.1128/mBio.01239-16</a></p>
 <!-- 
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
  -->
-</div>
 </section></section><section id="aio-Serofoi-tutorial"><p>Content from <a href="Serofoi-tutorial.html">Tutorial Serofoi</a></p>
 <hr>
 <p> Last updated on 2024-01-03 | 
