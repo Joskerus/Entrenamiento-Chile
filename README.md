@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# epimodelac
+# Entrenamiento Chile - TRACELAC
 
 <!-- badges: start -->
 
@@ -11,8 +11,8 @@ has not yet been a stable, usable release suitable for the
 public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 <!-- badges: end -->
 
-The goal of `epimodelac` is to host tutorials for the workshop on
-“Análisis de Brotes y Modelamiento en Salud Pública”.
+The goal of `Entrenamiento-Chile` is to host tutorials for a workshop in
+Chile using materials from the epimodelac international workshop “Análisis de Brotes y Modelamiento en Salud Pública”.
 
 For more information please consult <https://epimodelac.com/>.
 
