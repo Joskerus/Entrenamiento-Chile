@@ -502,6 +502,20 @@ a) Indique en qué parte del modelo haría los cambios.
 b) De acuerdo a la literatura que explique estas intervenciones y describa cómo parametrizará el modelo. ¿Todas estas intervenciones son viables en la actualidad? 
 
 
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+## Puntos clave 
+
+Revise si al final de esta lección adquirió estas competencias:
+
+-	Aplicar conceptos como parámetros, $R_0$ e inmunidad de rebaño, aprendidos en la sesión A del taller
+- Traducir fórmulas matemáticas de las interacciones entre los parámetros del modelo a código de R
+-	Realizar un modelo simple en R para una enfermedad transmitida por vector
+-	Discutir cambios en las proyecciones del modelo cuando se instauran diferentes estrategias de control de la infección
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 ## Sobre este documento
 
 ### Contribuciones
@@ -517,18 +531,20 @@ Contribuciones son bienvenidas vía [pull requests](https://github.com/reconhub/
 
 **Licencia**: [CC-BY](https://creativecommons.org/licenses/by/3.0/) **Copyright**: Zulma Cucunuba & Pierre Nouvellet, 2017
 
-<!-- ## Referencias -->
+## Referencias 
+ 
+de Carvalho, S. S., Rodovalho, C. M., Gaviraghi, A., Mota, M. B. S., Jablonka, W., Rocha-Santos, C., Nunes, R. D., Sá-Guimarães, T. da E., Oliveira, D. S., Melo, A. C. A., Moreira, M. F., Fampa, P., Oliveira, M. F., da Silva-Neto, M. A. C., Mesquita, R. D., & Atella, G. C. (2021). Aedes aegypti post-emergence transcriptome: Unveiling the molecular basis for the hematophagic and gonotrophic capacitation. PLoS Neglected Tropical Diseases, 15(1), 1–32. https://doi.org/10.1371/journal.pntd.0008915 
 
+Chang, C., Ortiz, K., Ansari, A., & Gershwin, M. E. (2016). The Zika outbreak of the 21st century. Journal of Autoimmunity, 68, 1–13. https://doi.org/10.1016/j.jaut.2016.02.006 
 
-::::::::::::::::::::::::::::::::::::: keypoints 
+Cori, A., Ferguson, N. M., Fraser, C., & Cauchemez, S. (2013). A new framework and software to estimate time-varying reproduction numbers during epidemics. American Journal of Epidemiology, 178(9), 1505–1512. https://doi.org/10.1093/aje/kwt133 
 
-## Puntos clave 
+Duffy, M. R., Chen, T.-H., Hancock, W. T., Powers, A. M., Kool, J. L., Lanciotti, R. S., Pretrick, M., Marfel, M., Holzbauer, S., Dubray, C., Guillaumot, L., Griggs, A., Bel, M., Lambert, A. J., Laven, J., Kosoy, O., Panella, A., Biggerstaff, B. J., Fischer, M., & Hayes, E. B. (2009). Zika Virus Outbreak on Yap Island, Federated States of Micronesia. New England Journal of Medicine, 360(24), 2536–2543. https://doi.org/10.1056/nejmoa0805715 
 
-Revise si al final de esta lección adquirió estas competencias:
+Ferguson, N. M., Cucunubá, Z. M., Dorigatti, I., Nedjati-Gilani, G. L., Donnelly, C. A., Basáñez, M. G., Nouvellet, P., & Lessler, J. (2016). Countering the Zika epidemic in Latin America. Science, 353(6297). https://doi.org/10.1126/science.aag0219 
 
--	Aplicar conceptos como parámetros, $R_0$ e inmunidad de rebaño, aprendidos en la sesión A del taller
-- Traducir fórmulas matemáticas de las interacciones entre los parámetros del modelo a código de R
--	Realizar un modelo simple en R para una enfermedad transmitida por vector
--	Discutir cambios en las proyecciones del modelo cuando se instauran diferentes estrategias de control de la infección
+Heesterbeek, J. A. P. (2002). A brief history of R0 and a recipe for its calculation. Acta Biotheoretica, 50(3). https://doi.org/10.1023/A:1016599411804 
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+Lee, E. K., Liu, Y., & Pietz, F. H. (2016). A Compartmental Model for Zika Virus with Dynamic Human and Vector Populations. AMIA ... Annual Symposium Proceedings. AMIA Symposium, 2016, 743–752. 
+
+Pettersson, J. H. O., Eldholm, V., Seligman, S. J., Lundkvist, Å., Falconar, A. K., Gaunt, M. W., Musso, D., Nougairède, A., Charrel, R., Gould, E. A., & de Lamballerie, X. (2016). How did zika virus emerge in the Pacific Islands and Latin America? MBio, 7(5). https://doi.org/10.1128/mBio.01239-16 
