@@ -1,5 +1,5 @@
 ---
-title: "Tutorial Vaccineff: Introducción al cálculo de efectividad vacunal con cohortes usando vaccineff"
+title: "Día 5 – Tutorial Vaccineff: Introducción al cálculo de efectividad vacunal con cohortes usando vaccineff"
 author: "David Santiago Quevedo, Santiago Loaiza, Zulma M. Cucunubá"
 date: "2023-11-03"
 output: html_document
@@ -698,10 +698,10 @@ es altamente dependiente del acceso a información adicional relevante que
 permita realizar ajustes a la estimación y capturar dinámicas relevantes.
 
 ***
-
+ 
 ## Reto
-
-[Reto](https://docs.google.com/document/d/1_33E0LufZP7FNO9Q491aFquV26eS4p2h/edit?usp=sharing&ouid=108718106243006326200&rtpof=true&sd=true)
+ 
+Una vez terminado el tutorial proceda a realizar el [Reto](https://docs.google.com/document/d/1_33E0LufZP7FNO9Q491aFquV26eS4p2h/edit?usp=sharing&ouid=108718106243006326200&rtpof=true&sd=true).
 
 ***
 

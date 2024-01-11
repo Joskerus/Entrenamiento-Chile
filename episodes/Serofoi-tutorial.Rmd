@@ -1,5 +1,5 @@
 ---
-title: "Tutorial Serofoi"
+title: "Día 4 – Tutorial Serofoi"
 author: "Nicolás Torres, Zulma Cucunubá"
 date: "2023-11-03"
 bibliography: RMarkdown.bib
@@ -487,9 +487,11 @@ Según los criterios explicados anteriormente, responda:
 \
 \
 
-***
-
-[Reto](https://docs.google.com/document/d/11j99fA8SBMUn1FD6oJBOvc-Nmr9aq5hd/edit?usp=sharing&ouid=108718106243006326200&rtpof=true&sd=true)
+*** 
+ 
+## Reto 
+ 
+Una vez terminado el tutorial proceda a realizar el  [Reto](https://docs.google.com/document/d/11j99fA8SBMUn1FD6oJBOvc-Nmr9aq5hd/edit?usp=sharing&ouid=108718106243006326200&rtpof=true&sd=true).
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
@@ -506,7 +508,7 @@ Revise si al final de esta lección adquirió estas competencias:
 ::::::::::::::::::::::::::::::::::::::::::::::::
 ### Sobre este documento
 
-Este documento ha sido diseñado por NOMBRE_DE_AUTORES para el Curso Internacional: Análisis de Brotes y Modelamiento en Salud Pública, Bogotá 2023. TRACE-LAC/Javeriana.
+Este documento ha sido diseñado por Nicolás Torres Domínguez para el Curso Internacional: Análisis de Brotes y Modelamiento en Salud Pública, Bogotá 2023. TRACE-LAC/Javeriana.
 
 #### Contribuciones
 

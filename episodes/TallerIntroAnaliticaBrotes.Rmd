@@ -1,5 +1,5 @@
 ---
-title: 'Taller - Introducción a la analítica de brotes'
+title: 'Día 3 - Taller Introducción a la analítica de brotes'
 author: "Anne Cori, Natsuko Imai, Finlay Campbell, Zhian N. Kamvar, Thibaut Jombart,José
   M. Velasco-España, Cándida Díaz-Brochero, Zulma M. Cucunubá"
 date: "2022-10-25"
