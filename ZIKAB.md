@@ -52,12 +52,18 @@ En este taller usted aplicará los conceptos básicos del **modelamiento de Enfe
 
 ## 2. Agenda
 
--   Instrucciones (5 mins) 
--   Desarrollo taller Zika Parte B  (45 mins con acompañamiento de monitores) 
--   Revisión grupal del código (10 mins) 
--   Revisión de resultados (20 mins) 
--   Descanso (25 mins) 
--   Discusión  final (60 mins)
+Parte 1: 9:00 am a 10:30 am 
+- Instrucciones (5 mins) 
+- Lectura del taller (10 mins) 
+- Desarrollo taller Zika Parte B  (45 mins con acompañamiento de monitores) 
+- Revisión grupal del código (10 mins) 
+- Revisión de resultados (20 mins) 
+Descanso: 10:30 am a 11:00 am 
+Parte 2: 11:00 am - 1:00 pm 
+- Simular intervenciones (30 mins) 
+- Revisión de las intervenciones (30 mins) 
+- Discusión  final (60 mins) 
+
 
 
 ## 3. Conceptos básicos a desarrollar
