@@ -2,7 +2,7 @@
 title: Setup
 ---
 
-Este entrenamiento es presentado en el curso de 5 días denominado ***Ciencia de datos y modelamiento para vigilancia epidemiológica con R*** como parte de la *XXV Escuela Internacional de Verano en la Escuela de Salud Pública de la Universidad de Chile, enero 2023.*
+Este entrenamiento es presentado en el curso de 5 días denominado ***Ciencia de datos y modelamiento para vigilancia epidemiológica con R*** como parte de la *XXV Escuela Internacional de Verano en la Escuela de Salud Pública de la Universidad de Chile, enero 2024.*
 
 Los materiales presentados aquí fueron construidos por la Pontificia Universidad Javeriana, Bogotá en Colombia, en el marco del proyecto Epiverse-TRACE-LAC, liderados por [Zulma Cucunubá](https://github.com/zmcucunuba) y el equipo de [Epiverse TRACE-LAC](https://epiverse-trace.github.io/) en la ejecución del [EpiKit](https://github.com/epiverse-trace/epi-training-kit).
 
