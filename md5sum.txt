@@ -10,6 +10,6 @@
 "episodes/Vaccineff-tutorial.Rmd" "7b1278d534f5a9f7be58434a972f7821" "site/built/Vaccineff-tutorial.md" "2024-01-11"
 "instructors/instructor-notes.md" "5cf113fd22defb29d17b64597f3c9bc0" "site/built/instructor-notes.md" "2024-01-03"
 "learners/reference.md" "4ad011879cd769a94de8888721042ec2" "site/built/reference.md" "2024-01-03"
-"learners/setup.md" "f074dd17e6367e4430e832c3cfb10343" "site/built/setup.md" "2024-01-11"
+"learners/setup.md" "53ece5cde7e9f687cd9ce65879929aab" "site/built/setup.md" "2024-01-11"
 "profiles/learner-profiles.md" "5fe5bf7537072422b91ed393ada03f9a" "site/built/learner-profiles.md" "2024-01-03"
 "renv/profiles/lesson-requirements/renv.lock" "cb2b57752f35b1f6a85c05f8605a4772" "site/built/renv.lock" "2024-01-03"
