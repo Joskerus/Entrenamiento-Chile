@@ -59,8 +59,8 @@ contact: 'team@carpentries.org'
 
 # Order of episodes in your lesson
 episodes:
-- TallerIntroAnaliticaBrotes.Rmd
 - ZIKAB.Rmd
+- TallerIntroAnaliticaBrotes.Rmd
 - Serofoi-tutorial.Rmd
 - Vaccineff-tutorial.Rmd
 
