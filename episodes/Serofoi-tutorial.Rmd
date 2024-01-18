@@ -416,7 +416,6 @@ Luego visualice conjuntamente las tres gráficas por medio de la función
 `plot_grid()` del paquete `cowplot`:
 
 ```{r chik2015_plot, eval = FALSE}
-install.packages("cowplot")
 
 cowplot::plot_grid(chik_constant_plot, 
                    chik_normal_plot, 
