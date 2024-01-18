@@ -366,8 +366,6 @@ Luego visualice conjuntamente las tres gráficas por medio de la función
 
 
 ```r
-install.packages("cowplot")
-
 cowplot::plot_grid(chik_constant_plot, 
                    chik_normal_plot, 
                    chik_normal_log_plot,
